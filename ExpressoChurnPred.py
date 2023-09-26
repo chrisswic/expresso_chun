@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 # import matplotlib.pyplot as plt
 import numpy as np
-import sklearn
+# import sklearn
 import warnings
 warnings.filterwarnings('ignore')
 import joblib
